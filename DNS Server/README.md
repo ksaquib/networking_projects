@@ -1,9 +1,5 @@
 # Domain Name System (DNS) Server
 
- Creating a README file based on the provided content for GitHub:
-
----
-
 # Building Your Own DNS Server: A Step-by-Step Guide
 
 Every time you type a website address into your browser, you interact with the Domain Name System (DNS). This system is crucial because it maps human-readable domain names to the IP addresses that computers use to identify each other on the network. In this guide, we will delve into what a DNS server is, how it works, and how you can build your own DNS server using Node.js.
@@ -131,7 +127,3 @@ dig @localhost ksaquib.surge.sh
 ```
 
 This command should return the IP address you defined in your database, verifying that your server can handle DNS queries properly.
-
----
-
-Feel free to adjust the formatting and add any additional information or instructions as needed for your GitHub README.
